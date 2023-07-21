@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Amir Farkhadov and this is my Github page.
+- 👋 Hi, my name is Amir Farkhadov and this is my GitHub page.
 - 👀 Here I store my finished projects and some (not all) projects that I am currently working on.
 - ✨ Currently, I am developing Web Applications on React using JavaScript and TypeScript languages. 
 - Languages I know: JavaScript, Kotlin, Java, Python.
